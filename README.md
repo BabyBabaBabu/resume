@@ -1,2 +1,2 @@
-# resume
-an update Latex Code for my Resume
+# cv
+my latex cv
